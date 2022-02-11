@@ -1,0 +1,3 @@
+[submodule "remotes/mochawesome/repo"]
+	path = remotes/mochawesome/repo
+	url = git@github.com:adamgruber/mochawesome.git
